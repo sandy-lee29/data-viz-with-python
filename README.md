@@ -3,7 +3,7 @@
 This repo will be a comprehensive guide to Data Visualization with Pandas & Seaborn & Matplotlib
 
 ### What You'll Learn <br>
-1. Charts for Distributions & Relationships 
+1. Charts for Distributions & Relationships <br>  
 ✅ Seaborn fundamentals (pairplot(), relplot(), catplot(), displot()) <br>
 ✅ Relational Plots : Scatterplots, Regplot (to add regression line), Line charts (lineplot) <br>
 ✅ Distributions Plots : Histograms (histplot), Density plots (kdeplot) <br>
