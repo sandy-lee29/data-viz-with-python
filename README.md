@@ -10,3 +10,5 @@ This repo will be a comprehensive guide to Data Visualization with Pandas & Seab
 ✅ Categorical Plots : Boxplots, Violin plots, Strip plots
 
 2. Charts for Amounts & Proportions 
+✅ Bar Charts (grouped, stacked bars), Pie Charts
+✅ Heatmaps
