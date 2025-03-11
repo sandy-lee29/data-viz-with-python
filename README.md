@@ -9,6 +9,6 @@ This repo will be a comprehensive guide to Data Visualization with Pandas & Seab
 ✅ Distributions Plots : Histograms (histplot), Density plots (kdeplot) <br>
 ✅ Categorical Plots : Boxplots, Violin plots, Strip plots
 
-2. Charts for Amounts & Proportions 
-✅ Bar Charts (grouped, stacked bars), Pie Charts
+2. Charts for Amounts & Proportions <br> 
+✅ Bar Charts (grouped, stacked bars), Pie Charts <br>
 ✅ Heatmaps
