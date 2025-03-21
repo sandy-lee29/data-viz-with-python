@@ -17,3 +17,8 @@ All visualizations will be demonstrated using the **Gapminder dataset (gapminder
 3. Maps <br>
 ✅ Drawing Choropleth maps
 
+4. Color and Chart Style 
+✅ Distinguishing groups (categorical scales) <br>
+✅ Representing values (sequential and diverging scales) <br>
+✅ Highlighting specific elements (custome colors and gray) <br>
+✅ Themes (set_palette & set_theme)
