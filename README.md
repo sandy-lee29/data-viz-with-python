@@ -13,3 +13,7 @@ All visualizations will be demonstrated using the **Gapminder dataset (gapminder
 2. Charts for Amounts & Proportions <br> 
 ✅ Bar Charts (grouped, stacked bars), Pie Charts <br>
 ✅ Heatmaps
+
+3. Maps <br>
+✅ Drawing Choropleth maps
+
